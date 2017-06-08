@@ -1,4 +1,4 @@
-# Nick Sullivan's Projects :sparkles:
+# Nick Sullivan's Projects
 
 ### [Improvibe](https://improvibe.com/)
 
