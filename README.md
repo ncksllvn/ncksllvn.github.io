@@ -1,3 +1,5 @@
+# Nick Sullivan's Projects :sparkles:
+
 ### [Improvibe](https://improvibe.com/)
 
 *Developer & Designer*. A hobby project. A music web application for bands to share audio recordings with their bandmates (Slack for bands is the objective). The UI uses React, Kube CSS, and HTML canvas for a custom music player.
