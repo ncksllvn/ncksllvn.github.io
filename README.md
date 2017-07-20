@@ -14,6 +14,9 @@
 ### [Underwater Chess](http://www.underwaterchess.com/)
 *Developer & Designer*. An online game of chess with an underwater theme. The game is entirely responsive and the UI was created using React.
 
+## [React Pizza](https://ncksllvn.github.io/react-pizza/)
+*Developer & Designer*. A demo for ordering pizzas made with React and Material Design. It was originally a code test but I really liked the result so I published it here.
+
 ### [Interactive Sin Wave](http://ncksllvn.github.io/sin/)
 *Developer & Designer*. This is just a fun project showing some work with canvas and physics.
 
