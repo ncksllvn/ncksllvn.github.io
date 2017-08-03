@@ -25,3 +25,6 @@
 
 ### [TANK Kiosk](https://www.facebook.com/CAI.NKU.EDU/posts/927154067305881)
 *Developer*. A kiosk application I worked on at the Center For Applied Informatics that looks up bus routes. Primarily uses jQuery and lots of graphics for the UI.
+
+### [Platonic Solids](http://ncksllvn.github.io/Platonic-Solids/)
+*Developer & Designer*. A 3D visualization of electrons bound to sphere using WebGL.
